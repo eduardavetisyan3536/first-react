@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+aside{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.topName{
+    font-weight: 500;
+    font-size: 20px;
+}
+.fontAside{
+    font-weight: 400;
+    font-size: 18px;
+}

@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.dataSection{
+    width: 1200px;
+    padding: 20px 40px;
+    margin: 0 80px;
+}
+.dataFilters{
+    padding: 0 20px 20px 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.dataFilters p{
+    font-size: 20px;
+    font-weight: 500;
+}
+#price{
+    outline: 0;
+    border: none;
+    box-shadow: 0 0 2px black;
+    padding: 5px 10px;
+}
