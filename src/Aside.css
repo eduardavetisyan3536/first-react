@@ -5,16 +5,38 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 aside{
+    width: 300px;
     padding: 20px;
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
 }
 .topName{
     font-weight: 500;
     font-size: 20px;
 }
 .fontAside{
-    font-weight: 400;
+    font-weight: 500;
     font-size: 18px;
 }
+.asideThings{
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.categoryFilters, .BrandFilters{
+    font-weight: 400;
+    font-size: 15px;
+    padding: 5px 0 0 0;
+}
+.categoryFilters, .BrandFilters, p{
+    padding: 5px;
+}
+.categoryFilters, .BrandFilters, label{
+    padding: 5px;
+}
+
+.center {
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+  }

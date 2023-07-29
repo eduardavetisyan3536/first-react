@@ -4,10 +4,10 @@ import HeaderText from './HeaderText'
 
 export default class Main extends Component {
   render() {
-    console.log(this.props, 'Main');
+    console.log(this.props.name, 'Main');
     return (
       <div>
-      <Header />
+      <Header name={this.props.name} />
       <HeaderText type={this.props.type} />
 
       </div>

@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 
 export default class HeaderText extends Component {
   render() {
-    console.log(this.props, 'HeaderText');
+    // console.log(this.props, 'HeaderText');
     return (
       <div>
         <section className='headerText'>

@@ -4,6 +4,7 @@ import Aside from './Aside'
 import DataSection from './DataSection'
 
 export default class Shop extends Component {
+
   render() {
     return (
       <div>

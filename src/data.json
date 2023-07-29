@@ -1,7 +1,7 @@
 {
     "clothes": [
       {
-        "id": "2401",
+        "id": "1",
         "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Ae_Shirt_1.jpg?alt=media",
         "brand": "American Eagle",
         "category": "Shirts",
@@ -9,7 +9,7 @@
         "amount": "2590"
       },
       {
-        "id": "2402",
+        "id": "2",
         "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Ae_Shirt_2.jpg?alt=media",
         "brand": "American Eagle",
         "category": "Shirts",
@@ -17,7 +17,7 @@
         "amount": "2340"
       },
       {
-        "id": "2403",
+        "id": "3",
         "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Ae_Shirt_3.jpg?alt=media",
         "brand": "American Eagle",
         "category": "Shirts",
@@ -25,7 +25,7 @@
         "amount": "2390"
       },
       {
-        "id": "2404",
+        "id": "4",
         "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Ae_Shirt_4.jpg?alt=media",
         "brand": "American Eagle",
         "category": "Shirts",
@@ -33,7 +33,7 @@
         "amount": "2120"
       },
       {
-        "id": "2405",
+        "id": "5",
         "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Ae_Shirt_5.jpg?alt=media",
         "brand": "American Eagle",
         "category": "Shirts",
@@ -41,7 +41,7 @@
         "amount": "1970"
       },
       {
-        "id": "2406",
+        "id": "6",
         "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Ae_Hoodie_1.jpg?alt=media",
         "brand": "American Eagle",
         "category": "Hoodies",
@@ -49,7 +49,7 @@
         "amount": "2800"
       },
       {
-        "id": "2407",
+        "id": "7",
         "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Ae_Hoodie_2.jpg?alt=media",
         "brand": "American Eagle",
         "category": "Hoodies",
@@ -57,7 +57,7 @@
         "amount": "2600"
       },
       {
-        "id": "2408",
+        "id": "8",
         "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Ae_Hoodie_3.jpg?alt=media",
         "brand": "American Eagle",
         "category": "Hoodies",
@@ -65,7 +65,7 @@
         "amount": "2700"
       },
       {
-        "id": "2409",
+        "id": "9",
         "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Ae_Hoodie_4.jpg?alt=media",
         "brand": "American Eagle",
         "category": "Hoodies",
@@ -73,7 +73,7 @@
         "amount": "3100"
       },
       {
-        "id": "2410",
+        "id": "10",
         "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Ae_Polo_1.jpg?alt=media",
         "brand": "American Eagle",
         "category": "Polos",
@@ -81,7 +81,7 @@
         "amount": "950"
       },
       {
-        "id": "2411",
+        "id": "11",
         "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Ae_Jeans_1.jpg?alt=media",
         "brand": "American Eagle",
         "category": "Jeans",
@@ -89,7 +89,7 @@
         "amount": "2600"
       },
       {
-        "id": "2412",
+        "id": "12",
         "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Ae_Jeans_2.jpg?alt=media",
         "brand": "American Eagle",
         "category": "Jeans",
@@ -97,7 +97,7 @@
         "amount": "2600"
       },
       {
-        "id": "2413",
+        "id": "13",
         "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Ae_Jeans_3.jpg?alt=media",
         "brand": "American Eagle",
         "category": "Jeans",
@@ -105,7 +105,7 @@
         "amount": "2600"
       },
       {
-        "id": "2414",
+        "id": "14",
         "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Ae_Jeans_4.jpg?alt=media",
         "brand": "American Eagle",
         "category": "Jeans",
@@ -113,7 +113,7 @@
         "amount": "2500"
       },
       {
-        "id": "2415",
+        "id": "15",
         "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Ae_Jeans_5.jpg?alt=media",
         "brand": "American Eagle",
         "category": "Jeans",
@@ -121,7 +121,7 @@
         "amount": "2200"
       },
       {
-        "id": "2416",
+        "id": "16",
         "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Hollister_Shirt_1.jpg?alt=media",
         "brand": "Hollister",
         "category": "Shirts",
@@ -129,7 +129,7 @@
         "amount": "2250"
       },
       {
-        "id": "2417",
+        "id": "17",
         "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Hollister_Shirt_2.jpg?alt=media",
         "brand": "Hollister",
         "category": "Shirts",
@@ -137,7 +137,7 @@
         "amount": "2300"
       },
       {
-        "id": "2418",
+        "id": "18",
         "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Hollister_Shirt_3.jpg?alt=media",
         "brand": "Hollister",
         "category": "Shirts",
@@ -145,7 +145,7 @@
         "amount": "2200"
       },
       {
-        "id": "2419",
+        "id": "19",
         "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Hollister_Shirt_4.jpg?alt=media",
         "brand": "Hollister",
         "category": "Shirts",
@@ -153,7 +153,7 @@
         "amount": "2200"
       },
       {
-        "id": "2420",
+        "id": "20",
         "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Hollister_Shirt_5.jpg?alt=media",
         "brand": "Hollister",
         "category": "Shirts",
@@ -161,7 +161,7 @@
         "amount": "1450"
       },
       {
-        "id": "2421",
+        "id": "21",
         "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Hollister_Hoodie_1.jpg?alt=media",
         "brand": "Hollister",
         "category": "Hoodies",
@@ -169,7 +169,7 @@
         "amount": "2400"
       },
       {
-        "id": "2422",
+        "id": "22",
         "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Hollister_Hoodie_2.jpg?alt=media",
         "brand": "Hollister",
         "category": "Hoodies",
@@ -185,7 +185,7 @@
         "amount": "2550"
       },
       {
-        "id": "2424",
+        "id": "24",
         "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Hollister_Hoodie_4.jpg?alt=media",
         "brand": "Hollister",
         "category": "Hoodies",
@@ -193,7 +193,7 @@
         "amount": "2100"
       },
       {
-        "id": "2425",
+        "id": "25",
         "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Hollister_Polo_1.jpg?alt=media",
         "brand": "Hollister",
         "category": "Polos",
@@ -201,7 +201,7 @@
         "amount": "1150"
       },
       {
-        "id": "2426",
+        "id": "26",
         "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Hollister_Polo_2.jpg?alt=media",
         "brand": "Hollister",
         "category": "Polos",
@@ -209,7 +209,7 @@
         "amount": "1250"
       },
       {
-        "id": "2427",
+        "id": "27",
         "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Hollister_Polo_3.jpg?alt=media",
         "brand": "Hollister",
         "category": "Polos",
@@ -217,7 +217,7 @@
         "amount": "1400"
       },
       {
-        "id": "2428",
+        "id": "28",
         "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Hollister_Jeans_1.jpg?alt=media",
         "brand": "Hollister",
         "category": "Jeans",
@@ -225,7 +225,7 @@
         "amount": "2600"
       },
       {
-        "id": "2429",
+        "id": "29",
         "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Hollister_Jeans_2.jpg?alt=media",
         "brand": "Hollister",
         "category": "Jeans",
@@ -233,7 +233,7 @@
         "amount": "2500"
       },
       {
-        "id": "2430",
+        "id": "30",
         "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Hollister_Jeans_3.jpg?alt=media",
         "brand": "Hollister",
         "category": "Jeans",
@@ -241,7 +241,7 @@
         "amount": "2950"
       },
       {
-        "id": "2431",
+        "id": "31",
         "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Pb_Shirt_1.jpg?alt=media",
         "brand": "Pull & Bear",
         "category": "Shirts",
@@ -249,7 +249,7 @@
         "amount": "2900"
       },
       {
-        "id": "2432",
+        "id": "32",
         "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Pb_Shirt_2.jpg?alt=media",
         "brand": "Pull & Bear",
         "category": "Shirts",
@@ -257,7 +257,7 @@
         "amount": "2700"
       },
       {
-        "id": "2433",
+        "id": "33",
         "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Pb_Shirt_3.jpg?alt=media",
         "brand": "Pull & Bear",
         "category": "Shirts",
@@ -265,7 +265,7 @@
         "amount": "3120"
       },
       {
-        "id": "2434",
+        "id": "34",
         "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Pb_Hoodie_1.jpg?alt=media",
         "brand": "Pull & Bear",
         "category": "Hoodies",
@@ -273,7 +273,7 @@
         "amount": "2300"
       },
       {
-        "id": "2435",
+        "id": "35",
         "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Pb_Hoodie_2.jpg?alt=media",
         "brand": "Pull & Bear",
         "category": "Hoodies",
@@ -281,7 +281,7 @@
         "amount": "2830"
       },
       {
-        "id": "2436",
+        "id": "36",
         "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Pb_Hoodie_3.jpg?alt=media",
         "brand": "Pull & Bear",
         "category": "Hoodies",
@@ -289,7 +289,7 @@
         "amount": "2490"
       },
       {
-        "id": "2437",
+        "id": "37",
         "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Pb_Jeans_1.jpg?alt=media",
         "brand": "Pull & Bear",
         "category": "Jeans",
@@ -297,7 +297,7 @@
         "amount": "2870"
       },
       {
-        "id": "2438",
+        "id": "38",
         "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Pb_Jeans_2.jpg?alt=media",
         "brand": "Pull & Bear",
         "category": "Jeans",
@@ -305,7 +305,7 @@
         "amount": "2930"
       },
       {
-        "id": "2439",
+        "id": "39",
         "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Pb_Jeans_3.jpg?alt=media",
         "brand": "Pull & Bear",
         "category": "Jeans",
@@ -313,7 +313,7 @@
         "amount": "2600"
       },
       {
-        "id": "2440",
+        "id": "40",
         "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Pb_Jeans_4.jpg?alt=media",
         "brand": "Pull & Bear",
         "category": "Jeans",
@@ -321,7 +321,7 @@
         "amount": "2700"
       },
       {
-        "id": "2441",
+        "id": "41",
         "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Zara_Shirt_1.jpg?alt=media",
         "brand": "Zara",
         "category": "Shirts",
@@ -329,7 +329,7 @@
         "amount": "2490"
       },
       {
-        "id": "2442",
+        "id": "42",
         "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Zara_Shirt_2.jpg?alt=media",
         "brand": "Zara",
         "category": "Shirts",
@@ -337,7 +337,7 @@
         "amount": "2370"
       },
       {
-        "id": "2443",
+        "id": "43",
         "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Zara_Shirt_3.jpg?alt=media",
         "brand": "Zara",
         "category": "Shirts",
@@ -345,7 +345,7 @@
         "amount": "2640"
       },
       {
-        "id": "2444",
+        "id": "44",
         "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Zara_Shirt_4.jpg?alt=media",
         "brand": "Zara",
         "category": "Shirts",
@@ -353,7 +353,7 @@
         "amount": "2900"
       },
       {
-        "id": "2445",
+        "id": "45",
         "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Zara_Shirt_5.jpg?alt=media",
         "brand": "Zara",
         "category": "Shirts",
@@ -361,7 +361,7 @@
         "amount": "2190"
       },
       {
-        "id": "2446",
+        "id": "46",
         "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Zara_Shirt_6.jpg?alt=media",
         "brand": "Zara",
         "category": "Shirts",
@@ -369,7 +369,7 @@
         "amount": "2780"
       },
       {
-        "id": "2447",
+        "id": "47",
         "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Zara_Jeans_1.jpg?alt=media",
         "brand": "Zara",
         "category": "Jeans",
@@ -377,7 +377,7 @@
         "amount": "3200"
       },
       {
-        "id": "2448",
+        "id": "48",
         "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Zara_Jeans_2.jpg?alt=media",
         "brand": "Zara",
         "category": "Jeans",
@@ -385,7 +385,7 @@
         "amount": "3450"
       },
       {
-        "id": "2449",
+        "id": "49",
         "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Zara_Jeans_3.jpg?alt=media",
         "brand": "Zara",
         "category": "Jeans",
@@ -393,7 +393,7 @@
         "amount": "4200"
       },
       {
-        "id": "2450",
+        "id": "50",
         "imageURL": "https://firebasestorage.googleapis.com/v0/b/tiptop-store.appspot.com/o/Zara_Jeans_4.jpg?alt=media",
         "brand": "Zara",
         "category": "Jeans",

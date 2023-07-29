@@ -69,4 +69,9 @@ nav{
 }
 .flexSections{
     display: flex;
+
 }
+/* .flexSections .center {
+    height: 50vh;
+    width: 50vw;
+} */
